@@ -3,13 +3,13 @@
 TypeScript 공부용 개인 저장소 <br/>
 <a href="https://buttoned-reindeer-145.notion.site/TypeScript-cd749ccc8a914f20815a363114576d22"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/></a>
 
-
 ## 목차
+
 <table class="tftable" border="1">
 <tr>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%201">Section 1 : Getting Started</a></td>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%202">Section 2 : TypeScript Basics & Basic Types</a></td>
-<td>Section 3 : The TypeScript Compiler (and its Configuration</td>
+<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%203">Section 3 : The TypeScript Compiler (and its Configuration)</a></td>
 <td>Section 4 : Next-generation JavaScript & TypeScript</td>
 </tr>
 <tr>
