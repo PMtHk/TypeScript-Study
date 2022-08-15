@@ -8,9 +8,9 @@ TypeScript 공부용 개인 저장소 <br/>
 <table class="tftable" border="1">
 <tr>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%201">Section 1 : Getting Started</a></td>
-<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%202">Section 2 : TypeScript Basics & Basic Types</a></td>
+<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%202">Section 2 : TypeScript Basics & Basic Types</a><br></td>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%203">Section 3 : The TypeScript Compiler (and its Configuration)</a></td>
-<td>Section 4 : Next-generation JavaScript & TypeScript</td>
+<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%204">Section 4 : Next-generation JavaScript & TypeScript</a></td>
 </tr>
 <tr>
 <td>Section 5 : Classes & Interfaces</td>
