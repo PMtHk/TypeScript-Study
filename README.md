@@ -13,7 +13,7 @@ TypeScript 공부용 개인 저장소 <br/>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%204">Section 4 : Next-generation JavaScript & TypeScript</a></td>
 </tr>
 <tr>
-<td>Section 5 : Classes & Interfaces</td>
+<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%205"> Section 5 : Classes & Interfaces</a></td>
 <td>Section 6 : Advanced Types</td>
 <td>Section 7 : Generics</td>
 <td>Section 8 : Decorators</td>
