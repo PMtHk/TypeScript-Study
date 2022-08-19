@@ -20,4 +20,4 @@ function extractAndConvert(obj, key) {
     return 'Value: ' + obj[key];
 }
 console.log(extractAndConvert({ name: 'zooby' }, 'name'));
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=Keyof.js.map
