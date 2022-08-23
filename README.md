@@ -16,10 +16,10 @@ TypeScript 공부용 개인 저장소 <br/>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%205"> Section 5 : Classes & Interfaces</a></td>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%206">Section 6 : Advanced Types</a></td>****
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%207">Section 7 : Generics</a></td>
-<td>Section 8 : Decorators</td>
+<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%208">Section 8 : Decorators</a></td>
 </tr>
 <tr>
-<td>Section 9 : Practice Time! Let's build a Drag Drop Project</td>
+<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%209">Section 9 : Practice Time! Let's build a Drag Drop Project</a></td>
 <td>Section 10 : Modules & Namespaces</td>
 <td>Section 11 : Using Webpack with TypeScript</td>
 <td>Section 12 : 3rd Party Libraries & TypeScript</td>
