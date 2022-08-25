@@ -1,6 +1,11 @@
-namespace App{
-   // ProjectInput Class
-   export class ProjectInput extends Component<HTMLDivElement, HTMLFormElement> {
+/// <reference path="base-component.ts" />
+/// <reference path="../decorators/autobind.ts" />
+/// <reference path="../utils/validation.ts" />
+/// <reference path="../states/project.ts" />
+
+namespace App {
+  // ProjectInput Class
+  export class ProjectInput extends Component<HTMLDivElement, HTMLFormElement> {
     titleInputElement: HTMLInputElement;
     descriptionInputElement: HTMLInputElement;
     peopleInputElement: HTMLInputElement;
