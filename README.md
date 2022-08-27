@@ -25,9 +25,10 @@ TypeScript 공부용 개인 저장소 <br/>
 <td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%2012">Section 12 : 3rd Party Libraries & TypeScript</td>
 </tr>
 <tr>
-<td>Section 13 : Time to Practice! Let's build a "Select & Share a Place" App (incl. Google Maps)</td>
+<td><a href="https://github.com/PMtHk/TypeScript-Study/tree/main/Section%2013">Section 13 : Time to Practice! Let's build a "Select & Share a Place" App (incl. Google Maps)</a></td>
 <td>Section 14 : React.js & TypeScript</td>
 <td>Section 15 : Node.js + Express & TypeScript</td>
 <td>Section 16 : Course Roundup</td>
 </tr>
 </table>
+
