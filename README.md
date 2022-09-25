@@ -1,7 +1,6 @@
 # TypeScript-Study
 
 TypeScript 공부용 개인 저장소 <br/>
-<a href="https://buttoned-reindeer-145.notion.site/TypeScript-cd749ccc8a914f20815a363114576d22"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/></a>
 
 ## 목차
 
